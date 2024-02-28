@@ -1,0 +1,12 @@
+$footer-color: #232323;
+$text-color: #BBBBBB;
+
+.footer{
+    width: 100vw;
+    height: 25vh;
+    background-color: $footer-color;
+    color: $text-color;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,324 @@
+{"teams":
+[
+    {
+        "name": "Green Bay Packers",
+        "keyword": "packers",
+        "city": "Green Bay, Wisconsin",
+        "conference": "NFC",
+        "division": "NFC Norte",
+        "stadium": "Lambeau Field",
+        "superbowl": 4,
+        "description": "\tO Green Bay Packers é um time profissional de futebol americano baseado em Green Bay, Wisconsin. Os Packers competem na National Football League (NFL) como um membro da NFC North da National Football Conference (NFC). É a terceira franquia mais antiga da NFL, que remonta a 1919, e é a única equipe profissional esportiva da liga principal, sem fins lucrativos e que pertencente à comunidade, com sede nos Estados Unidos. Os jogos em casa foram jogados no Lambeau Field desde 1957.\n\tOs Packers são a última das 'equipes em pequenas cidades' que eram comuns na NFL durante os primeiros anos da década de 1920 e 30. Fundada em 1919 por Earl 'Curly' Lambeau e George Whitney Calhoun, a franquia traça sua linhagem para outras equipes semi-profissionais em Green Bay desde 1896. Entre 1919 e 1920, os Packers competiram contra outros clubes semi-profissionais de Wisconsin, antes de ingressar na American Professional Football Association (APFA), o precursor da NFL de hoje, em 1921. Embora Green Bay seja de longe o menor mercado esportivo profissional da América do Norte, a Forbes classificou a Packers como a 26ª franquia esportiva mais valiosa em 2016, com um valor de US $ 2,35 bilhões.\n\tOs Packers venceram 13 campeonatos da liga, o maior número da história da NFL, com nove títulos pré-Super Bowl da NFL e quatro vitórias no Super Bowl. Os Packers ganharam os dois primeiros Super Bowls em 1967 e 1968 e foram a única equipe da NFL a derrotar times da AFL antes da fusão AFL-NFL. O Troféu Vince Lombardi tem o nome do treinador dos Packers com o mesmo nome, que os guiou para os seus dois primeiros Super Bowls. Suas duas vitórias subseqüentes do Super Bowl vieram em 1996 e 2010.\n\tA NFC Norte, além dos Packers, conta com o Chicago Bears, Minnesota Vikings e Detroit Lions. A rivalidade Bears-Packers é uma das mais antigas da história da NFL, que remonta a 1921." 
+    },
+    {
+        "name": "Minnesota Vikings",
+        "keyword": "vikings",
+        "city": "Minneapolis, Minnesota",
+        "conference": "NFC",
+        "division": "NFC Norte",
+        "stadium": "U.S. Bank Stadium",
+        "superbowl": 0,
+        "description": "\tO Minnesota Vikings é um time profissional de futebol americano baseado em Minneapolis, Minnesota. Os Vikings se juntaram à National Football League (NFL) como uma equipe de expansão em 1960. A equipe compete na NFC North.\n\tDurante a década de 1960, o histórico dos Vikings era típico para uma franquia de expansão, mas melhorou ao longo da década, resultando em um título da Divisão Central em 1968. Em 1969, sua defesa dominante levou o título da liga, o última da NFL antes da fusão da NFL com a AFL.\n\tA equipe joga seus jogos em casa no U.S. Bank Stadium na seção Downtown East de Minneapolis" 
+    },
+    {
+        "name": "Detroit Lions",
+        "keyword": "lions",
+        "city": "Minneapolis, Minnesota",
+        "conference": "NFC",
+        "division": "NFC Norte",
+        "stadium": "Ford Field",
+        "superbowl": 0,
+        "description": "\tO Detroit Lions é um time profissional de futebol americano baseado em Detroit, Michigan. Os Lions competem na National Football League (NFL) como um clube membro da divisão Norte da National Football Conference (NFC). A equipe joga seus jogos em casa no Ford Field, no centro de Detroit.\n\tOriginalmente baseada em Portsmouth, Ohio e chamada de Portsmouth Spartans, a equipe entrou formalmente na NFL em 12 de julho de 1930 e começou a jogar na temporada de 1930. Apesar do sucesso dentro da NFL, eles não poderiam sobreviver em Portsmouth, então a menor cidade da NFL. A equipe foi comprada e transferida para Detroit para a temporada de 1934.\n\tOs Lions ganharam quatro títulos da NFL, o último deles foi em 1957, o que dá ao clube a segunda maior seca de títulos da NFL, atrás do Arizona Cardinals. Eles são uma das quatro equipes atuais e a única equipe da NFC que ainda não jogou no Super Bowl. Eles também são a única franquia que esteve em operação em todas as 52 temporadas da era do Super Bowl sem ter aparecido em um (os Cleveland Browns não estavam em operação para as temporadas de 1996 a 1998)." 
+    },
+    {
+        "name": "Chicago Bears",
+        "keyword": "bears",
+        "city": "Chicago, Illinois",
+        "conference": "NFC",
+        "division": "NFC Norte",
+        "stadium": "Soldier Field",
+        "superbowl": 1,
+        "description": "\tO Chicago Bears é um time profissional de futebol americano baseado em Chicago, Illinois. Os Bears competem na National Football League (NFL) como um membro da divisão norte da National Football Conference (NFC). Os Bears ganharam nove títulos da NFL, incluindo um Super Bowl, e detêm o recorde da NFL para os mais consagrados no Hall da Fama e para mais números aposentados. Os Bears também registraram mais vitórias do que qualquer outra franquia da NFL.\n\tA franquia foi fundada em Decatur, Illinois, em 17 de setembro de 1920, e mudou-se para Chicago em 1921. É uma das duas únicas franquias remanescentes da fundação da NFL em 1920, juntamente com o Arizona Cardinals, que originalmente também era em Chicago. A equipe jogou em casa no Wrigley Field no lado norte de Chicago durante a temporada de 1970; eles agora jogam no Soldier Field, próximo ao Lago Michigan. Os Bears têm uma rivalidade de longa data com o Green Bay Packers.\n\tA sede da equipe, Halas Hall, fica no subúrbio de Chicago, em Lake Forest, Illinois. Os Bears treinam em instalações adjacentes durante a temporada. Desde 2002, os Bears realizaram seu treinamento anual, do final de julho até meados de agosto, no Ward Field, no campus da Olivet Nazarene University, em Bourbonnais, Illinois.\n\tEm 2023, os Bears foram avaliados em US$ 7 bilhões de dólares, sendo a quinta franquia mais valiosa da NFL." 
+    },
+    {
+        "name": "Baltimore Ravens",
+        "keyword": "ravens",
+        "city": "Baltimore, Maryland",
+        "conference": "AFC",
+        "division": "AFC Norte",
+        "stadium": "M&T Bank Stadium",
+        "superbowl": 2,
+        "description": "\tO Baltimore Ravens é um time profissional de futebol americano baseado em Baltimore, Maryland. Os Ravens competem na National Football League (NFL) como um clube membro da divisão norte da American Football Conference (AFC). A equipe joga seus jogos em casa no M&T Bank Stadium e está sediada em Owings Mills.\n\tOs Ravens foram fundados em 1996, quando Art Modell, então dono do Cleveland Browns, anunciou planos de transferir a franquia de Cleveland para Baltimore. Como parte de um acordo entre a liga e a cidade de Cleveland, Modell foi obrigado a deixar a história e os registros dos Browns em Cleveland para uma equipe de substituição que assumiria o controle em 1999. Em troca, ele foi autorizado a levar sua equipe própria para Baltimore, onde esse pessoal formaria então uma equipe de expansão.\n\tOs Ravens se classificaram para os playoffs da NFL dez vezes desde 2000, com duas vitórias no Super Bowl (Super Bowl XXXV e Super Bowl XLVII), dois títulos do Campeonato AFC (2000 e 2012), 15 vitórias nos playoffs e cinco títulos da Divisão Norte da AFC (2003, 2006, 2011 e 2012, 2018), e atualmente são a única equipe na NFL a ter um recorde perfeito em várias aparições no Super Bowl e Dia de Ação de Graças." 
+    },
+    {
+        "name": "Pittsburg Steelers",
+        "keyword": "steelers",
+        "city": "Pittisburg, Pensilvânia",
+        "conference": "AFC",
+        "division": "AFC Norte",
+        "stadium": "Heinz Field",
+        "superbowl": 6,
+        "description": "\tO Pittsburgh Steelers é um time profissional de futebol americano baseado em Pittsburgh, Pensilvânia. Os Steelers competem na National Football League (NFL), como um clube membro da divisão norte da American Football Conference (AFC). Fundados em 1933, os Steelers são a franquia mais antiga da AFC.\n\tEm contraste na pré-fusão AFL-NFL, quando eram a equipe mais antiga a nunca ganhar um campeonato da liga, os Steelers da era pós-fusão (moderna) são uma das franquias mais bem sucedidas da NFL. O Pittsburgh ganhou mais títulos do Super Bowl (seis) e chegou mais vezes à final da conferência (onze) do que qualquer outro time da NFL, até que o New England Patriots também conseguiu alcançar este recorde após vencer o Super Bowl LIII, em 2019. Os Steelers venceram oito campeonatos da AFC, empatados com o Denver Broncos, mas atrás do recorde de onze títulos da AFC do New England Patriots. Os Steelers compartilham o recorde de segundo maior número de presenças no Super Bowl com o Broncos e o Dallas Cowboys (oito), somente atrás dos Patriots, que atingiram a marca de onze aparições no Super Bowl após a temporada de 2018. Os Steelers perderam sua mais recente aparição no Super Bowl (Super Bowl XLV), em 6 de fevereiro de 2011.\n\tOs Steelers, cuja história remonta a uma equipe profissional regional que foi estabelecida no início dos anos 1920, entraram para a NFL como Pittsburgh Pirates, em 8 de julho de 1933." 
+    },
+    {
+        "name": "Cincinnati Bengals",
+        "keyword": "bengals",
+        "city": "Cincinnati, Ohio",
+        "conference": "AFC",
+        "division": "AFC Norte",
+        "stadium": "Paycor Stadium",
+        "superbowl": 0,
+        "description": "\tO Cincinnati Bengals é uma franquia profissional de futebol americano baseada em Cincinnati, Ohio. Os Bengals competem na National Football League (NFL) como um clube membro da divisão norte da American Football Conference (AFC). Seu estádio é o Paycor Stadium, que fica no centro de Cincinnati. O seu treinador principal é Zac Taylor, que ocupa o cargo desde 2019. Seus oponentes divisionais são o Pittsburgh Steelers, o Cleveland Browns e o Baltimore Ravens.\n\tOs Bengals foram fundados em 1966 como um membro da American Football League (AFL) pelo ex-treinador do Cleveland Browns, Paul Brown. Brown foi treinador principal dos Bengals desde o seu início até 1975. Depois de ser demitido como treinador dos Browns por Art Modell (que tinha comprado a maioria do time em 1961) em janeiro de 1963, Paul Brown mostrou interesse em estabelecer outra franquia da NFL em Ohio e olhou para Cincinnati e Columbus. Ele finalmente escolheu Cincinnati quando um acordo entre a cidade, Hamilton County e o Cincinnati Reds da Major League Baseball (que buscavam substituir o obsoleto Crosley Field) foi atingido, o que resultou em um acordo para construir um estádio polivalente que poderia sediar beisebol e futebol americano." 
+    },
+    {
+        "name": "Cleveland Browns",
+        "keyword": "browns",
+        "city": "Berea, Ohio",
+        "conference": "AFC",
+        "division": "AFC Norte",
+        "stadium": "Cleveland Browns Stadium",
+        "superbowl": 0,
+        "description": "\tO Cleveland Browns é um time profissional de futebol americano baseado em Cleveland, Ohio. Os Browns competem na National Football League (NFL) como um clube membro da divisão norte da American Football Conference (AFC). Os Browns jogam seus jogos em casa no Cleveland Browns Stadium, inaugurado em 1999, com escritórios administrativos e instalações de treinamento em Berea, Ohio. As cores oficiais dos Browns são marrom, laranja e branco. Eles são os únicos da NFL a não ter um logotipo em seus capacetes.\n\tA franquia foi fundada em 1945 pelo empresário Arthur B. McBride e pelo técnico Paul Brown como membro fundador da All-America Football Conference (AAFC). Os Browns dominaram a AAFC, compilando 47 vitórias, 4 empates e três derrotas nas quatro temporadas da liga e vencendo todos os campeonatos. Quando a AAFC faliu após a temporada de 1949, os Browns se juntaram à National Football League, juntamente com o San Francisco 49ers e o Baltimore Colts original. Os Browns ganharam um campeonato em sua temporada inaugural da NFL, assim como nas temporadas de 1954, 1955 e 1964, e em um feito inigualável em qualquer esporte profissional da América do Norte, eles jogaram na final do campeonato em cada uma das dez primeiras temporadas de existência. De 1965 a 1995, eles foram para os playoffs por 14 vezes, mas não ganharam outro campeonato nem apareceram no Super Bowl durante esse período." 
+    },
+    {
+        "name": "Philadelphia Eagles",
+        "keyword": "eagles",
+        "city": "Filadélfia, Pensilvânia",
+        "conference": "NFC",
+        "division": "NFC Leste",
+        "stadium": "Lincoln Financial Field",
+        "superbowl": 0,
+        "description": "\tO Philadelphia Eagles é uma franquia profissional de futebol americano sediada na Filadélfia, Pensilvânia. Os Eagles competem na National Football League (NFL) como um membro da divisão leste da National Football Conference (NFC). Eles tem um título do Super Bowl, tendo vencido o Super Bowl LII; eles também tem quatros títulos da NFL em geral, depois de vencer a final de 1948, 1949 e 1960.\n\tA equipe tem uma intensa rivalidade com os New York Giants. Essa rivalidade é a mais antiga na NFC East e está entre as mais antigas da NFL. Foi classificada pela NFL Network como a rivalidade número um de todos os tempos, a Sports Illustrated classifica-a entre as 10 maiores rivalidades da NFL de todos os tempos e de acordo com a ESPN, é uma das mais ferozes e conhecidas rivalidades na comunidade do futebol americano. Eles também têm uma forte rivalidade com o Dallas Cowboys, que se tornou mais conhecido desde os anos 1960, bem como uma rivalidade histórica com o Washington Commanders. Sua rivalidade com o Pittsburgh Steelers é outra rivalidade amarga, que remonta a 1933, e que se origina principalmente dos status das duas equipes como sendo de lados opostos do mesmo estado.\n\tA equipe está sempre entre as melhores do campeonato e tem vendido todos os ingressos em todos os seus jogos desde a temporada de 1999. Em uma pesquisa da Sports Illustrated de 321 jogadores da NFL, os fãs de Eagles foram selecionados como os fãs mais intimidadores da NFL." 
+    },
+    {
+        "name": "Dallas Cowboys",
+        "keyword": "cowboys",
+        "city": "Dallas, Texas",
+        "conference": "NFC",
+        "division": "NFC Norte",
+        "stadium": "AT&T Stadium",
+        "superbowl": 5,
+        "description": "\tO Dallas Cowboys é uma franquia profissional de futebol americano sediada na Metroplex de Dallas-Forth Worth, Texas. A equipe compete na National Football League (NFL) pela divisão leste da Conferência Nacional.\n\tAvaliada no ano de 2023 em US$ 9 bilhões de dólares pela Forbes, os Cowboys são franquia esportiva mais valiosa do planeta, também possuindo a maior revenda em merchandising da liga, atingindo a marca de US$ 1 bilhão em 2021. Além disso, lidera a liga em média de público em partidas em casa desde 2009, ano de inauguração do estádio onde manda seus jogos, o AT&T Stadium, em Arlington, Texas.\n\tFundada em 1960 como uma equipe na expansão da liga, pelo petroleiro Clint Murchsion Jr, é considerada uma das franquias mais vencedoras e populares da NFL. Atrás apenas do New England Patriots, com onze aparições, está empatada com Pittsburgh Steelers e Denver Broncos em maior número de participações em Super Bowls, com oito vezes, tendo vencido em cinco ocasiões – 1971, 1977, 1992, 1993 e 1995. E está empatado com o San Francisco 49ers na segunda colocação de maior quantidade de títulos, atrás apenas de Pittsburgh Steelers e New England Patriots, com seis títulos. Por fim, junto ao Green Bay Packers, é a equipe que mais tem participações na pós-temporada da liga." 
+    },
+    {
+        "name": "New York Giants",
+        "keyword": "giants",
+        "city": "Nova York, Nova Jérsei",
+        "conference": "NFC",
+        "division": "NFC Leste",
+        "stadium": "MetLife Stadium",
+        "superbowl": 4,
+        "description": "\tNew York Giants é um time de futebol americano profissional localizado na área metropolitana de Nova Iorque. Os Giants competem na National Football League (NFL) como uma franquia membro da Conferência Nacional (NFC) da Divisão Leste.\n\tA equipe é anfitriã de jogos no MetLife Stadium, estádio que é compartilhado com a outra equipe da cidade, os New York Jets. O centro de treinamento da equipe está localizado no Meadowlands Sports Complex.\n\tOs Giants foram uma das cinco equipes que aderiram à NFL em 1925 e é o único do grupo que ainda existe. A equipe ocupa o terceiro lugar entre todas as franquias da NFL com oito títulos: quatro na era pré-Super Bowl (1927, 1934, 1938, 1956) e quatro títulos do Super Bowl (XXI em 1986, XXV em 1990, XLII em 2007 e XLVI em 2011). Os Giants mantem o recorde mais apararições na final com dezenove aparições no total. O número de títulos é superado apenas pelo Green Bay Packers (13) e Chicago Bears (9).\n\tDurante sua história, os Giants colocaram 15 jogadores no Hall da Fama da NFL, incluindo jogadores vencedores do prêmio de MVP: Mel Hein, Frank Gifford, Charlie Conerly, YA Tittle, e Lawrence Taylor. Para distinguir-se da equipe de beisebol com o mesmo nome - San Francisco Giants, o time de futebol americano foi incorporado como o 'New York National League Football Company, Inc.' em 1929 e alterado para 'New York Football Giants, Inc.' em 1937. Embora a equipe de beisebol tenha se mudado para San Francisco após a temporada de 1957, a equipe ainda utiliza o 'New York Football Giants, Inc.' como nome oficial, os fãs se referem ao time como 'New York Football Giants'. A equipe também ganhou vários apelidos, incluindo 'Big Blue', 'G-Men', e os 'Jints'. Além disso, a equipe no geral, por vezes é referida como 'Big Blue Wrecking Crew', embora este apelido tenha como objetivo se referir à defesa do time durante os anos 80 e início dos anos 90." 
+    },
+    {
+        "name": "Washington Commanders",
+        "keyword": "commanders",
+        "city": "Ashburn, Virgínia",
+        "conference": "NFC",
+        "division": "NFC Leste",
+        "stadium": "FedEx Field",
+        "superbowl": 3,
+        "description": "\tO Washington Commanders (anteriormente conhecido como Washington Redskins e Washington Football Team) é uma equipe profissional de futebol americano baseado em Washington, D.C.. O time compete na National Football League (NFL) como um membro da divisão leste da National Football Conference (NFC). A equipe joga seus jogos em casa no FedEx Field em Landover, Maryland; sua sede e instalações de treinamento estão no Inova Sports Performance Center, no Redskins Park, em Ashburn, Virgínia, e no antigo Complexo Redskins, em Richmond, Virgínia, respectivamente.\n\tO time jogou mais de mil jogos desde sua fundação em 1932 e são uma das cinco franquias na NFL a registrar mais de seiscentas vitórias na temporada regular e na pós-temporada, alcançando essa marca em 2015. Washington ganharam cinco títulos da NFL (os três últimos em Super Bowls), e conquistaram quatorze títulos de divisão e seis campeonatos de conferências. Foi a primeira franquia da NFL com uma banda oficial e a primeira com uma música oficial, 'Hail to the Redskins'. A equipe começou a jogar em Boston como 'Braves' em 1932, tornou-se 'Redskins' em 1933 e se mudou para Washington, D.C. em 1937. Eles venceram os títulos de 1937 e 1942 da NFL, assim como os Super Bowls XVII, XXII e XXVI. Eles foram vice-campeões seis vezes, perdendo os títulos de 1936, 1940, 1943 e 1945, e os Super Bowls VII e XVIII. Com vinte e quatro aparições na pós-temporada, têm um registro geral de pós-temporada de 23–18. O nome 'Redskins' sempre gerou controvérsia, pois esta palavra ('pele-vermelha', em tradução livre) é normalmente utilizada como um termo pejorativo para os povos nativos dos Estados Unidos. Em 2020, o time decidiu mudar seu nome, cedendo a pressão de ativistas, torcedores e, principalmente, dos investidores." 
+    },
+    {
+        "name": "Buffalo Bills",
+        "keyword": "bills",
+        "city": "Buffalo, Nova York",
+        "conference": "AFC",
+        "division": "AFC Leste",
+        "stadium": "Highmark Stadium",
+        "superbowl": 0,
+        "description": "\tO Buffalo Bills é um time profissional de futebol americano da cidade de Buffalo, Nova Iorque fundado em 1960 que disputa a NFL como parte da divisão Leste da conferência AFC.\n\tOs Bills jogam no estádio Highmark Stadium. localizado na cidade de Orchard Park, com 71.608 lugares. É o único time a jogar suas partidas no Estado de Nova Iorque já que New York Giants e New York Jets jogam suas partidas no MetLife Stadium no estado de Nova Jérsia.\n\tO time foi bicampeão da American Football League antes desta se fundir com a NFL. Os Bills são a única equipe a vencer quatro títulos de conferência consecutivos e são a única equipe da NFL a perder quatro jogos consecutivos no Super Bowl.\n\tOs Bills possuía a maior seca de playoffs em qualquer um dos quatro principais esportes profissionais da América do Norte: eles não se classificaram para jogar nos playoffs da NFL de 1999 a 2017 e foram a última equipe da NFL (e última equipe nas principais ligas esportivas profissionais da América do Norte) a competir nos playoffs no século XXI.\n\tBuffalo também conseguiu a maior virada da história da NFL, que aconteceu no Wild Card de 1993 da AFC onde após estar perdendo por 35-3 do Houston Oilers (hoje Tennessee Titans) no intervalo, conseguiu virar para 38-41 na prorrogação." 
+    },
+    {
+        "name": "Miami Dolphins",
+        "keyword": "dolphins",
+        "city": "Miami, Florida",
+        "conference": "AFC",
+        "division": "AFC Leste",
+        "stadium": "Hard Rock Stadium",
+        "superbowl": 2,
+        "description": "\tO Miami Dolphins é um time profissional de futebol americano baseado em Miami, Flórida. Este time joga na divisão AFC East da Conferência Americana (AFC) da National Football League (NFL), ao lado de Buffalo Bills, New England Patriots e New York Jets. O Dolphins joga suas partidas em casa em seu estádio Hard Rock Stadium, com capacidade para 75.540 lugares, localizado em Miami Gardens, e tem seu centro de treinamento Miami Dolphins Training Facility em Davie, também Flórida.\n\tO Dolphins foi fundado por Joe Robbie e começou a jogar na AFL em 1966. Em 1970, o time se juntou à NFL após a fusão com a AFL, se tornando a franquia de uma Major League mais antiga no estado da Flórida.\n\tA primeira aparição em Super Bowl aconteceu no ano de 1971, no Super Bowl VI, mas o time perdeu para o Dallas Cowboys. Em 1972, o Dolphins tornou-se a primeira e única franquia na história da liga a completar uma temporada invicta, vencendo todos os 14 jogos, incluindo a decisão contra o Washington Redskins no Super Bowl VII. O time viria a vencer também o Super Bowl VIII, batendo o Minnesota Vikings. Miami também participou do Super Bowl XVII e do Super Bowl XIX, perdendo ambos os jogos." 
+    },
+    {
+        "name": "New England Patriots",
+        "keyword": "patriots",
+        "city": "Foxborough, Massachusetts",
+        "conference": "AFC",
+        "division": "AFC Leste",
+        "stadium": "Gillette Stadium",
+        "superbowl": 6,
+        "description": "\tO New England Patriots é um time profissional de futebol americano sediado na cidade de Foxborough, em Massachusetts, na região nordeste dos Estados Unidos. Os Patriots competem na National Football League (NFL), como membros da Divisão Leste da American Football Conference (AFC). Eles mandam seus jogos no Gillette Stadium, localizado a 34 km a sudoeste de Boston e a 32 km a nordeste de Providence, Rhode Island.\n\tComo um dos times originais da antiga American Football League (AFL), os Patriots se juntaram a NFL após a fusão de 1970. A equipe mudou seu nome, anteriormente Boston Patriots, após se mudarem para a cidade de Foxborough em 1971. Sua primeira casa foi o Foxboro Stadium, onde mandaram seus jogos de 1971 a 2001, se mudando para o Gillette Stadium no começo da temporada de 2002. O time nutre uma forte rivalidade com o New York Jets, sendo considerado uma das maiores rivalidades da liga. Durante a década de 2000, uma nova rivalidade foi vista com o Indianapolis Colts, com os times se enfrentando em pós-temporada com frequência.\n\tO New England Patriots é considerado uma das franquias mais vencedoras da história da NFL. Eles tem onze aparições no Super Bowl, mais do que qualquer outro time, sendo nove delas desde a chegada do treinador Bill Belichick e do quarterback Tom Brady em 2000. Eles também venceram dezesseis títulos da AFC East em dezoito temporadas disputadas entre 2001 e 2018, sem ter uma única temporada regular com uma campanha negativa (mais derrotas do que vitórias) neste período. A franquia também estabeleceu diversos recordes, incluindo mais vitórias em um período de dez anos (126, de 2003 a 2012), uma temporada invicta com dezesseis vitórias em 2007, a maior sequência de vitórias em temporada regular e playoffs na história da NFL (21 vitórias seguidas de outubro de 2003 a outubro de 2004), e ainda a maior sequência de títulos de divisão na história da liga (dez, de 2009 a 2018). Os Patriots também detém o recorde de maior número de aparições (nove) e vitórias (seis) no Super Bowl para uma dupla treinador–quarterback (Belichick-Brady). Atualmente, com seis títulos de Super Bowl conquistados, estão empatados com o Pittsburgh Steelers, que também têm seis troféus, entre os maiores campeões da final da liga." 
+    },
+    {
+        "name": "New York Jets",
+        "keyword": "jets",
+        "city": "East Rutherford, Nova Jérsei",
+        "conference": "AFC",
+        "division": "AFC Leste",
+        "stadium": "MetLife Stadium",
+        "superbowl": 1,
+        "description": "\tO New York Jets é um time profissional de futebol americano localizado em East Rutherford, New Jersey. Os Jets competem na National Football League (NFL) como um clube membro da AFC East da American Football Conference (AFC). A equipe está sediada em Florham Park, New Jersey. Em um arranjo exclusivo da liga, os Jets dividem o MetLife Stadium em East Rutherford, New Jersey, com o New York Giants. A franquia é corporativamente registrada como New York Jets, LLC.\n\tA equipe foi fundada em 1959 como Titans of New York, um membro original da American Football League (AFL); mais tarde, a franquia juntou-se à NFL na fusão AFL-NFL em 1970. A equipe começou a jogar em 1960 no Polo Grounds. Sob nova propriedade, o nome atual foi adotado em 1963 e a franquia mudou para o Shea Stadium em 1964 e depois para o Meadowlands Sports Complex em 1984.\n\tOs Jets avançaram para os playoffs pela primeira vez em 1968 e disputaram o Super Bowl III onde derrotaram o Baltimore Colts, tornando-se o primeiro time da AFL a derrotar um clube da NFL em um Super Bowl. Desde 1968, os Jets apareceram nos playoffs 13 vezes e na AFC Championship Game quatro vezes, mais recentemente perdendo para o Pittsburgh Steelers em 2010. No entanto, os Jets nunca voltaram ao Super Bowl, tornando-os uma das duas franquias da NFL que só participaram uma vez do Super Bowl, juntamente com o New Orleans Saints. Além dos Cleveland Browns e Detroit Lions, que nunca chegaram ao Super Bowl (embora ambos tenham vencido os campeonatos da NFL anteriores a 1966), a seca dos Jets é a mais longa entre as atuais franquias da NFL." 
+    },
+    {
+        "name": "New Orleans Saints",
+        "keyword": "saints",
+        "city": "Nova Orleans, Louisiana",
+        "conference": "NFC",
+        "division": "NFC Sul",
+        "stadium": "Caesars Superdome",
+        "superbowl": 1,
+        "description": "\tO New Orleans Saints é um time profissional de futebol americano baseado em New Orleans, Louisiana. Os Saints atualmente competem na National Football League (NFL) como um membro da NFC South. A equipe foi fundada por John W. Mecom Jr., David Dixon e pela cidade de Nova Orleans em 1 de novembro de 1966. Os Saints começaram a jogar no Tulane Stadium em 1967.\n\tO nome 'Saints' é uma alusão ao dia 1 de novembro como Dia de Todos os Santos na fé católica. Nova Orleans tem uma grande população católica e o espiritual 'When the Saints Go Marching In' é fortemente associado a New Orleans e é frequentemente cantado pelos fãs nos jogos. A franquia foi fundada em 1 de novembro de 1966.\n\tAs cores primárias da equipe são ouro velho e preto; seu logotipo é uma flor de lis simplificada. Eles jogaram seus jogos em casa no Tulane Stadium durante a temporada de 1974 da NFL. No ano seguinte, eles se mudaram para o novo Louisiana Superdome (agora o Caesars Superdome, já que a Caesars Entertainment Corporation comprou os direitos de nome do estádio)." 
+    },
+    {
+        "name": "Atlanta Falcons",
+        "keyword": "falcons",
+        "city": "Flowery Branch, Geórgia",
+        "conference": "NFC",
+        "division": "NFC Sul",
+        "stadium": "Mercedes-Benz Stadium",
+        "superbowl": 0,
+        "description": "\tO Atlanta Falcons são uma equipe profissional de futebol americano sediada em Atlanta, Geórgia. Os Falcons competem na National Football League (NFL) como um clube membro da NFC South. Os Falcons se juntaram à NFL em 1965 como uma equipe de expansão, depois que a NFL ofereceu ao então proprietário, Rankin Smith, uma franquia para evitar que ele se juntasse à rival American Football League (AFL). Em seus 51 anos de existência (até 2016), os Falcons acumularam um recorde de 350-450-6 (341-437-6 na temporada regular e 9-13 nos playoffs), vencendo campeonatos de divisão em 1980, 1998, 2004, 2010, 2012 e 2016. Os Falcons apareceram em dois Super Bowls, o primeiro durante a temporada de 1998 no Super Bowl XXXIII, onde perderam para o Denver Broncos por 34-19, e o segundo foi dezoito anos depois, uma derrota por 34-28 na prorrogação para o New England Patriots no Super Bowl LI.\n\tO atual estádio dos Falcons é o Mercedes-Benz Stadium, que foi inaugurado na temporada de 2017; a sede da equipe e as instalações de treinamento estão localizadas em um local de 20 hectares em Flowery Branch, a nordeste de Atlanta no condado de Hall." 
+    },
+    {
+        "name": "Tampa Bay Buccaneers",
+        "keyword": "buccaneers",
+        "city": "Tampa, Florida",
+        "conference": "NFC",
+        "division": "NFC Sul",
+        "stadium": "Raymond James Stadium",
+        "superbowl": 2,
+        "description": "\tO Tampa Bay Buccanneers são uma franquia profissional de futebol americano sediada em Tampa, Flórida. Os Buccaneers atualmente competem na National Football League (NFL) como uma equipe membro da NFC South. Junto com o Seattle Seahawks, a equipe entrou para a NFL em 1976 como uma equipe de expansão. Durante o realinhamento da liga em 2002, os Bucs se juntaram a três ex-equipes da NFC West para formar a NFC South. O clube é de propriedade da família Glazer e joga seus jogos em casa no Raymond James Stadium, em Tampa.\n\tOs Buccaneers são a primeira equipe de expansão pós-fusão a conquistar um título de divisão, ganhar um jogo de playoff e sediar e jogar em uma final de conferência; todas as três realizações ocorreram durante a temporada de 1979. Eles também são o primeiro time desde a fusão a completar uma temporada vitoriosa ao iniciar 10 ou mais novatos, o que aconteceu na temporada de 2010. Em 1976 e 1977, os Buccaneers perderam seus primeiros 26 jogos. Eles não ganhariam seu primeiro jogo na história da franquia até a semana 13 de 1977. Após uma breve era vitoriosa no final dos anos 70 e início dos anos 80, a equipe sofreu 14 temporadas consecutivas de derrotas. Então, por um período de 10 anos, eles foram todas as vezes para os playoffs e venceram o Super Bowl XXXVII no final da temporada de 2002, retornando ao Super Bowl dezoito anos depois, em 2020, com o quarterback Tom Brady, faturando o seu segundo título." 
+    },
+    {
+        "name": "Carolina Panthers",
+        "keyword": "panthers",
+        "city": "Charlotte, Carolina do Norte",
+        "conference": "NFC",
+        "division": "NFC Sul",
+        "stadium": "Bank of America Stadium",
+        "superbowl": 0,
+        "description": "\tO Carolina Panthers é uma equipe profissional de futebol americano com sede em Charlotte, Carolina do Norte. Os Panthers competem na National Football League (NFL), como um clube membro da NFC South. A equipe está sediada no Bank of America Stadium, na parte alta da cidade de Charlotte; também o campo de origem da equipe. Eles são uma das poucas equipes da NFL a possuir o estádio em que jogam, que é legalmente registrado como Panthers Stadium LLC. A equipe hospeda seu campo de treinamento anual no Wofford College em Spartanburg, Carolina do Sul.\n\tOs Panthers foram anunciados como a 29ª franquia da liga em 1993, e começaram a jogar em 1995 sob o comando do proprietário original e fundador Jerry Richardson. Os Panthers jogaram bem em seus dois primeiros anos, terminando com um recorde de 7-9 em 1995 (um dos melhores de todos os tempos para a primeira temporada de uma equipe de expansão da NFL) e um recorde de 12-4 no ano seguinte. Eles não tiveram outra temporada vitoriosa até 2003, quando venceram a NFC Championship Game e alcançaram o Super Bowl XXXVIII, perdendo por 32-29 para o New England Patriots. Após ir para os playoffs em 2005 e 2008, a equipe não conseguiu voltar aos playoffs até 2013, o primeiro dos três títulos consecutivos da NFC South. Depois de perder no Divisional Round para o San Francisco 49ers em 2013 e pro Seattle Seahawks em 2014, os Panthers retornaram ao Super Bowl em 2015, mas perderam para o Denver Broncos. Os Panthers chegaram aos playoffs sete vezes, avançando para quatro NFC Championship Games e dois Super Bowls. Eles ganharam seis títulos de divisão, um no NFC West e cinco no NFC South." 
+    },
+    {
+        "name": "Jacksonville Jaguars",
+        "keyword": "lions",
+        "city": "Jacksonville, Flórida",
+        "conference": "AFC",
+        "division": "AFC Sul",
+        "stadium": "EverBank Stadium",
+        "superbowl": 0,
+        "description": "\tO Jacksonville Jaguars é uma franquia de futebol americano profissional sediado em Jacksonville, Flórida. Os Jaguars competem na National Football League (NFL) como um clube membro da Divisão Sul da American Football Conference (AFC). A equipe joga seus jogos em casa no EverBank Stadium.\n\tOs Jaguars e o Carolina Panthers se juntaram à NFL como equipes de expansão para a temporada de 1995. Desde a sua criação, os Jaguars ganharam os títulos de divisão em 1998 e 1999 (como membros da agora extinta AFC Central) e 2017 (como membros da AFC South) e se classificaram para os playoffs sete vezes, mais recentemente em 2017 após dez temporadas de seca.\n\tAté o início de 2011, o dono do Jacksonville Jaguars era Wayne Weaver. A equipe foi então comprada pelo empresário paquistanês Shahid Khan por estimados US $ 770 milhões. Em 2015, a Forbes estimou o valor da equipe em US $ 1,48 bilhão." 
+    },
+    {
+        "name": "Tennessee Titans",
+        "keyword": "titans",
+        "city": "Nashville, Tennessee",
+        "conference": "AFC",
+        "division": "AFC Sul",
+        "stadium": "Nissan Stadium",
+        "superbowl": 0,
+        "description": "\tO Tennessee Titans é um time profissional de futebol americano baseado em Nashville, Tennessee. Os Titans competem na National Football League (NFL) como um clube membro da Divisão Sul da American Football Conference (AFC). Anteriormente conhecido como Houston Oilers, a equipe começou a jogar em 1960 em Houston, Texas, como membro fundador da American Football League (AFL). Os Oilers venceram os dois primeiros campeonatos da AFL e ingressaram na NFL como parte da fusão AFL-NFL em 1970.\n\tA equipe se mudou de Houston para Tennessee em 1997 e jogou no Liberty Bowl Memorial Stadium em Memphis por uma temporada. A equipe mudou-se para Nashville em 1998 e jogou no Vanderbilt Stadium. Por esses dois anos, eles eram conhecidos como 'Tennessee Oilers', mas mudaram seu nome para 'Tennessee Titans' para a temporada de 1999. A equipe atualmente joga no Nissan Stadium, em Nashville, que abriu em 1999 como Adelphia Coliseum. A instalação de treinamento dos Titans fica no Saint Thomas Sports Park no complexo MetroCenter em Nashville." 
+    },
+    {
+        "name": "Indianapolis Colts",
+        "keyword": "colts",
+        "city": "Indianápolis, Indiana",
+        "conference": "AFC",
+        "division": "AFC Sul",
+        "stadium": "Lucas Oil Stadium",
+        "superbowl": 2,
+        "description": "\tO Indianapolis Colts é um time de futebol americano baseado em Indianapolis, Indiana. Os Colts competem na National Football League (NFL) como um clube membro da divisão sul da American Football Conference (AFC). Desde a temporada de 2008, os Colts mandam seus jogos em casa no Lucas Oil Stadium. Anteriormente, a equipe havia jogado por mais de duas décadas (1984–2007) no RCA Dome. Desde 1987, os Colts têm sido a equipe anfitriã do Combine da NFL.\n\tOs Colts tem sido um clube membro da NFL desde a sua fundação em Baltimore em 1953. Eles foram um dos três times da NFL a se juntar aos da American Football League (AFL) para formar a AFC após a fusão de 1970. Enquanto estava em Baltimore, a equipe avançou para os playoffs 10 vezes e ganhou três jogos da NFL Championship em 1958, 1959 e 1968. Os Colts jogaram em dois Super Bowls enquanto estavam em Baltimore, perdendo para o New York Jets no Super Bowl III e derrotando o Dallas Cowboys no Super Bowl V.\n\tOs Colts se mudaram para Indianápolis em 1984 e desde então apareceram nos playoffs 16 vezes, ganharam dois campeonatos de conferência e venceram um Super Bowl, no qual derrotaram o Chicago Bears no Super Bowl XLI." 
+    },
+    {
+        "name": "Houston Texnas",
+        "keyword": "texans",
+        "city": "Houston, Texas",
+        "conference": "AFC",
+        "division": "AFC Sul",
+        "stadium": "NRG Stadium",
+        "superbowl": 0,
+        "description": "\tO Houston Texans é um time profissional de futebol americano sediado em Houston, Texas. Os Texans competem na National Football League (NFL) como um clube membro da divisão Sul da American Football Conference (AFC). A equipe joga seus jogos em casa no NRG Stadium.\n\tO time jogou pela primeira vez em 2002 como uma equipe de expansão, tornando-se a mais jovem franquia atualmente competindo na NFL. Os Texans substituíram a franquia anterior da cidade, Houston Oilers, que se mudou para Nashville, Tennessee e agora é conhecida como Tennessee Titans. O dono majoritário da equipe é Bob McNair.\n\tEles encontrariam sucesso na temporada de 2011, depois de conquistar sua primeira vaga nos playoffs e vencer a sua divisão pela primeira vez. Os Texans ganhariam mais três títulos da AFC South em 2012, 2015 e 2016. Até o momento, os Texans são a única franquia da NFL a nunca ter jogado em uma final de conferência." 
+    },
+    {
+        "name": "San Francisco 49ers",
+        "keyword": "sf49ers",
+        "city": "Santa Clara, Califórnia",
+        "conference": "NFC",
+        "division": "NFC Oeste",
+        "stadium": "Levi's Stadium",
+        "superbowl": 5,
+        "description": "\tO San Francisco 49ers é um time profissional de futebol americano localizado na área da Santa Clara, Califórnia, na Baía de São Francisco. Eles competem na National Football League (NFL) como um membro da NFC West. A equipe atualmente joga seus jogos em casa no Levi's Stadium, em Santa Clara, localizado a 72 km a sudeste de São Francisco, no coração do Vale do Silício. Desde 1988, os 49ers estão sediados em Santa Clara.\n\tA equipe foi fundada em 1946 como membro fundador da All-America Football Conference (AAFC) e ingressou na NFL em 1949, quando as ligas se fundiram. Os 49ers foram a primeira franquia de esportes profissionais das ligas principais sediada em São Francisco. O nome '49ers' vem dos garimpeiros que chegaram ao norte da Califórnia na Corrida do Ouro de 1849. A equipe começou a jogar no Kezar Stadium, em San Francisco, antes de se mudar para o Candlestick Park, em 1970, e depois para o Levi's Stadium, em Santa Clara, em 2014.\n\tOs 49ers venceram cinco títulos do Super Bowl entre 1981 e 1995, liderados pelos Hall of Famers: Joe Montana, Jerry Rice, Ronnie Lott, Steve Young e pelo técnico Bill Walsh. Eles foram campeões de divisão por 20 vezes entre 1970 e 2019, tornando-se um dos times mais bem-sucedidos da história da NFL. Os 49ers estiveram nos playoffs da liga por 27 vezes: 26 vezes na NFL e uma vez no AAFC.\n\tA equipe definiu vários recordes notáveis da NFL, incluindo mais jogos consecutivos vencidos (18), mais temporadas consecutivas liderando o ataque na liga (1992-95), mais jogos consecutivos marcando (1979-2004), mais field goal em uma temporada (44), menos turnovers em uma temporada (10) e mais touchdowns em um Super Bowl." 
+    },
+    {
+        "name": "Los Angeles Rams",
+        "keyword": "rams",
+        "city": "Inglewood, Califónia",
+        "conference": "NFC",
+        "division": "NFC Oeste",
+        "stadium": "SoFi Stadium",
+        "superbowl": 2,
+        "description": "\tO Los Angeles Rams é um time profissional de futebol americano baseado em Inglewood, Califórnia, nos Estados Unidos. Os Rams competem na National Football League (NFL) pela conferência NFC, divisão Oeste.\n\tO L.A. Rams possui dois títulos da liga (1945 e 1951) e venceu dois títulos de Super Bowl (XXXIV e LVI). São a única equipe da liga a vencer campeonatos por três cidades diferentes (Cleveland em 1945, Los Angeles em 1951 e St. Louis em 1999).\n\tA franquia começou como Cleveland Rams em 1936 na cidade de Cleveland, em Ohio. O dono do clube era Homer Marshman e apresentou jogadores famosos como William 'Bud' Cooper, Harry 'The Horse' Mattos, Stan Pincura e Mike Sebastian. Damon 'Buzz' Wetzel era o gerente geral.\n\tDepois de vencer o título da NFL de 1945, a franquia se mudou para Los Angeles, Califórnia, em 1946, mantendo o nome Rams, tornando-se a única equipe campeão da NFL a jogar a seguinte temporada em outra cidade." 
+    },
+    {
+        "name": "Seattle Seahawks",
+        "keyword": "seahawks",
+        "city": "Minneapolis, Minnesota",
+        "conference": "NFC",
+        "division": "NFC Oeste",
+        "stadium": "Lumen Field",
+        "superbowl": 1,
+        "description": "\tO Seattle Seahawks são uma franquia profissional de futebol americano sediada em Seattle, Washington. Os Seahawks competem na National Football League (NFL) como um membro da NFC West. Eles se juntaram a NFL em 1976 como uma equipe de expansão. Desde 2002, eles jogam em casa no Lumen Field (antigamente conhecido como Qwest Field ou CenturyLink Field), localizado ao sul do centro de Seattle. Eles já jogaram em casa no Kingdome (1976-1999) e Husky Stadium (1994, 2000-2001).\n\tOs fãs dos Seahawks são referidos coletivamente como '12th Man', '12th Fan' ou '12s'. Os fãs dos Seahawks marcaram duas vezes o Recorde Mundial do Guinness de maior barulho da platéia em um evento esportivo, registrando 136,6 decibéis durante um jogo contra o San Francisco 49ers em setembro de 2013 e mais tarde eles tiveram 137,6 dB contra o New Orleans Saints.\n\tOs Seahawks são a única franquia da NFL baseada na região Noroeste do Pacífico e assim atraem o apoio de uma ampla área geográfica, incluindo algumas partes de Oregon, Montana, Idaho e Alasca, bem como fãs canadenses em Columbia Britânica, Alberta e Saskatchewan.\n\tOs Seahawks ganharam 10 títulos de divisão e três títulos de conferência. Eles são o único time que jogou nas finais da AFC e da NFC." 
+    },
+    {
+        "name": "Arizona Cardinals",
+        "keyword": "cardinals",
+        "city": "Tempe, Arizona",
+        "conference": "NFC",
+        "division": "NFC Oeste",
+        "stadium": "State Farm Stadium",
+        "superbowl": 0,
+        "description": "\tO Arizona Cardinals é uma franquia profissional de futebol americano baseada na área metropolitana de Phoenix, Arizona. Os Cardinals competem na National Football League (NFL) como um membro da NFC West. Os Cardinals foram fundados como Morgan Athletic Club em 1898 e são os mais antigos times profissionais de futebol americano nos Estados Unidos. Os Cardinals jogam seus jogos em casa no State Farm Stadium, inaugurado em 2006 e localizado no subúrbio noroeste de Glendale.\n\tA equipe foi fundada em Chicago em 1898 como um time de futebol americano amador e ingressou na NFL como membro fundador em 17 de setembro de 1920. Juntamente com o Chicago Bears, o clube é uma das duas franquias membro da NFL que ainda estão em operação desde a fundação da liga. (O Green Bay Packers eram uma equipe independente até ingressarem na NFL um ano depois de sua criação em 1921.) O clube então se mudou para St. Louis em 1960 e jogou lá até 1987. (às vezes chamado de 'Football Cardinals' ou 'Big Red' para evitar confusão com os St. Louis Cardinals da MLB).\n\tAntes da temporada de 1988, a equipe se mudou para Tempe, Arizona, um subúrbio universitário a leste de Phoenix, e jogou seus jogos em casa pelas próximas 18 temporadas no Sun Devil Stadium no campus da Arizona State University. Em 2006, eles se mudaram para seu atual campo em Glendale, embora os escritórios executivos e o centro de treinamento da equipe permaneçam em Tempe." 
+    },
+    {
+        "name": "Kansas City Chiefs",
+        "keyword": "chiefs",
+        "city": "Kansas City, Missouri",
+        "conference": "AFC",
+        "division": "AFC Oste",
+        "stadium": "Arrowhead Stadium",
+        "superbowl": 4,
+        "description": "\tO Kansas City Chiefs é um time profissional de futebol americano sediado em Kansas City, Missouri. Os Chiefs competem na National Football League (NFL) como um clube membro da divisão oeste da American Football Conference (AFC). A equipe foi fundada em 1960 como Dallas Texans pelo empresário Lamar Hunt e foi membro fundador da American Football League (AFL). Em 1963, a equipe mudou-se para Kansas City e assumiu seu nome atual. Os Chiefs se juntaram à NFL como resultado da fusão em 1970.\n\tA equipe foi avaliada em 2022 em mais de US$ 3,7 bilhões de dólares. Clark Hunt, filho de Lamar Hunt, fundador da equipe, é o atual presidente e CEO. Enquanto as participações de Lamar passaram coletivamente para sua viúva e seus filhos após sua morte em 2006, Clark representa os Chiefs em todas as reuniões da liga e tem autoridade máxima em mudanças.\n\tOs Chiefs venceram três campeonatos da AFL em 1962, 1966 e 1969 e se tornaram a segunda equipe da AFL (depois do New York Jets) a derrotar uma equipe da NFL em um Super Bowl quando derrotaram o Minnesota Vikings no Super Bowl IV. Os Chiefs foram a segunda equipe, depois do Green Bay Packers, a aparecer em mais de um Super Bowl (e a primeira equipe da AFL a fazê-lo) e a primeira a aparecer em duas décadas diferentes." 
+    },
+    {
+        "name": "Denver Broncos",
+        "keyword": "broncos",
+        "city": "Denver, Colorado",
+        "conference": "AFC",
+        "division": "AFC Oeste",
+        "stadium": "Empower Field at Mile High",
+        "superbowl": 3,
+        "description": "\tO Denver Broncos é uma franquia profissional de futebol americano sediada em Denver, Colorado. Os Broncos competem como um clube membro da Divisão Oeste da American Football Conference (AFC) da National Football League (NFL). Eles começaram a jogar em 1960 como membro fundador da American Football League (AFL) e se juntaram à NFL como parte da fusão em 1970. Os Broncos são propriedade de Pat Bowlen Trust e atualmente jogam no Empower Field at Mile High (anteriormente conhecido como Invesco Field at Mile High de 2001-2010 e Sports Authority Field at Mile High de 2011-2017). Antes disso, eles jogavam no Mile High Stadium de 1960 a 2000.\n\tOs Broncos foram pouco competitivos durante seus 10 anos na AFL e seus primeiros sete anos na NFL. Eles não completaram uma temporada vitoriosa até 1973. Em 1977, quatro anos depois, eles se classificaram para os playoffs pela primeira vez na história da franquia e avançaram para o Super Bowl XII. Desde 1975, os Broncos se tornaram um dos times de maior sucesso da NFL, tendo apenas sete temporadas perdedoras. Eles ganharam oito AFC Championship (1977, 1986, 1987, 1989, 1997, 1998, 2013 e 2015) e três Super Bowl (1997 - XXXII, 1998 - XXXIII e 2015 - 50)." 
+    },
+    {
+        "name": "Las Vegas Raiders",
+        "keyword": "raiders",
+        "city": "Las Vegas, Nevada",
+        "conference": "AFC",
+        "division": "AFC Oeste",
+        "stadium": "Allegiant Stadium",
+        "superbowl": 3,
+        "description": "\tO Las Vegas Raiders é uma franquia profissional de futebol americano sediada na Região Metropolitana de Las Vegas, em Nevada. Os Raiders competem na National Football League (NFL) como um clube membro da divisão oeste da American Football Conference (AFC). Fundado em 30 de janeiro de 1960, ele jogou seu primeiro jogo da temporada regular em 11 de setembro de 1960, como membro fundador da American Football League (AFL), que se fundiu com a NFL em 1970.\n\tOs primeiros três anos de operação da equipe (1960-1962) foram prejudicados pelo fraco desempenho em campo, dificuldades financeiras e público irregular. Em 1963, no entanto, os Raiders melhoraram dramaticamente com a introdução do treinador principal (e eventual proprietário) Al Davis. Em 1967, após vários anos de melhora, os Raiders alcançaram a pós-temporada pela primeira vez. A equipe iria ganhar seu primeiro (e único) título da AFL naquele ano; Ao fazê-lo, os Raiders avançaram para o Super Bowl II, onde foram derrotados pelo Green Bay Packers. Desde 1963, a equipe ganhou 15 títulos de divisão (três AFL e doze NFL), quatro Campeonatos da AFC (1976, 1980, 1983 e 2002), um Campeonato da AFL (1967) e três Super Bowls (XI, XV e XVIII). No final da temporada de 2017 da NFL, os Raiders tiveram um recorde de 462 vitórias na temporada regular, 411 derrotas e 11 empates; o seu recorde de playoff é de 25 vitórias e 19 derrotas.\n\tA equipe partiu de Oakland para jogar em Los Angeles, Califórnia, da temporada de 1982 até a temporada de 1994, antes de retornar a Oakland no início da temporada de 1995. Al Davis foi o dono da equipe de 1972 até sua morte em 2011. O controle da franquia foi dado ao filho de Al, Mark Davis.\n\tEm 27 de março de 2017, os proprietários das equipe da NFL votaram quase unanimemente para aprovar o pedido dos Raiders para se mudarem de Oakland para Las Vegas, Nevada, em uma votação de 31-1 nas reuniões anuais da liga em Phoenix, Arizona. Os Raiders planejam permanecer em Oakland até 2018 - e possivelmente em 2019 - e se mudar para Las Vegas em 2019 ou 2020, dependendo da conclusão do novo estádio da equipe. O time oficialmente se deslocou para a área de Grande Las Vegas em 22 de janeiro de 2020.\n\tOs Raiders são conhecidos por sua extensa base de fãs e cultura de equipe distinta. Os Raiders têm quatorze ex-membros que foram consagrados no Hall da Fama do futebol americano. Os Raiders, desde 2020, mandam seus jogos no Allegiant Stadium, a oeste do distrito de Paradise, Nevada." 
+    },
+    {
+        "name": "Los Angeles Chargers",
+        "keyword": "chargers",
+        "city": "Los Angeles, Califórnia",
+        "conference": "AFC",
+        "division": "AFC Oeste",
+        "stadium": "SoFi Stadium",
+        "superbowl": 0,
+        "description": "\tO Los Angeles Chargers é um time profissional de futebol americano baseado na região metropolitana de Los Angeles, na costa oeste dos Estados Unidos. Os Chargers competem na National Football League (NFL) como membros da Divisão Oeste da American Football Conference (AFC).\n\tO time foi fundado em 14 de agosto de 1959 e começou a jogar em 10 de setembro do mesmo ano, na temporada de 1960 da American Football League (AFL), e jogou sua primeira temporada em Los Angeles, antes de se mudar para San Diego em 1961 e se tornarem o San Diego Chargers. Os Chargers se juntaram a National Football League logo após a Fusão AFL-NFL em 1970, e passou a mandar seus jogos no SDCCU Stadium. Os Chargers retornariam para Los Angeles em 2017, um ano após os Rams também terem se mudado para a cidade, vindos de St. Louis. Seu novo estádio passou a ser o Dignity Health Sports Park, mas de forma temporária pois é esperado a inauguração do SoFi Stadium para 2020, onde eles irão partilhar o campo com o LA Rams.\n\tOs Chargers venceram um título da AFL em 1963 e chegou aos playoffs desta liga cinco vezes e a final do campeonato cerca de quatro vezes antes de se juntarem a NFL (em 1970). Nos 43 anos seguintes, os Chargers foram treze vezes aos playoffs da principal liga de futebol americano dos Estados Unidos e tiveram quatro aparições na final de conferência, o AFC Championship game.\n\tNa temporada de 1994, os Chargers tiveram sua melhor temporada da história, triunfando na final da AFC e então enfrentando o San Francisco 49ers no Super Bowl XXIX, perdendo na final da liga por 49 a 26." 
+    }
+]
+}
