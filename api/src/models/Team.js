@@ -11,7 +11,7 @@ const teamSchema = new mongoose.Schema({
     conference: { type: String },
     division: { type: String },
     stadium: { type: String },
-    superbowl: { type: Number },
+    superbowl: { type: [String] },
     description: { type: String }
 }, { versionKey: false })
 

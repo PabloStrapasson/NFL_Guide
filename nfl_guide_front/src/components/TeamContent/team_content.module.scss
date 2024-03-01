@@ -1,0 +1,34 @@
+.team_content{
+    width: 80vw;
+    height: auto;
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    .team_header{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    
+        p{
+            font-size: 16pt;
+        }
+        h2{
+            font-size: 30pt;
+        }
+        .trophy_dvi{
+            margin: 50px;
+            font-size: 10pt;
+        }
+    }
+
+    .team_main{
+        text-align: justify;
+        font-size: 16pt;
+    }
+}
+
+

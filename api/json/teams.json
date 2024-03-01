@@ -22,7 +22,7 @@
     {
         "name": "Detroit Lions",
         "keyword": "lions",
-        "city": "Minneapolis, Minnesota",
+        "city": "Detroit, Michigan",
         "conference": "NFC",
         "division": "NFC Norte",
         "stadium": "Ford Field",
@@ -241,7 +241,7 @@
     },
     {
         "name": "Jacksonville Jaguars",
-        "keyword": "lions",
+        "keyword": "jaguars",
         "city": "Jacksonville, Flórida",
         "conference": "AFC",
         "division": "AFC Sul",

@@ -25,10 +25,30 @@ export default class TeamController{
         }
     }
 
-    static async searchTeamByName(req, res) {
-        const team_name = req.query.name
+    /*static async searchTeamByKeyword(res, req){
+        console.log("antes de pegar a keyword")
+        const team_keyword = req.query.q
+        console.log("keyword: ", team_keyword)
         try {
-            const search_team = await team.find({ name: team_name })
+            console.log("antes de buscar no DB")
+            const search_team = await team.find({ keyword: team_keyword })
+            console.log("time: ", search_team)
+            if(search_team === null){
+                console.log("antes de mandar mensagem de não encontrado")
+                res.status(404).json({message: 'Time não encontrado :('})
+            } else {
+                console.log("antes de mandar mensagem de encontrado")
+                res.status(200).json(search_team)
+            }
+        } catch(error) {
+            res.status(500).json({message: `${error.message} - Falha ao buscar time`})
+        }
+    }*/
+
+    static async searchTeamByKeyword(req, res) {
+        const team_name = req.query.keyword
+        try {
+            const search_team = await team.find({ keyword: team_name })
             if(search_team === null){
                 res.status(404).json({message: 'Time não encontrado :('})
             } else {

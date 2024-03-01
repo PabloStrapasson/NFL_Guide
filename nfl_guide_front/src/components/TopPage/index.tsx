@@ -1,17 +1,17 @@
 import React from "react";
-import style from "./toppage.module.scss";
 import Logo from "@/components/Logo";
+import { Team } from "@/types/Team";
 
-interface Props {
-  class_name: string
-  logo_path: string
+interface Props extends Team{
+  keyword: string
   logo_href: string
 }
 
-export default function TopPage({class_name, logo_path, logo_href}:Props) {
+export default function TopPage({keyword, logo_href}:Props) {
+  
   return (
-    <div className={class_name}>
-      <Logo logo_url={logo_path} logo_href={logo_href}/>
+    <div className={keyword}>
+      <Logo logo_url={keyword} logo_href={logo_href}/>
     </div>
   )
 }

@@ -6,6 +6,6 @@ export interface Team{
     conference: string,
     division: string,
     stadium: string,
-    superbowl: number,
+    superbowl: string[],
     description: string
 }

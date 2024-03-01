@@ -10,7 +10,6 @@ interface Props{
 export default function Logo({logo_url, logo_href}: Props) {
 
   const url = `/images/logos/${logo_url}.svg`
-  const href_url = logo_href
 
   return (
     <div className={style.logo}>

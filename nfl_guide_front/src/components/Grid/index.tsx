@@ -11,19 +11,8 @@ export default function Grid({teams}: Props) {
   return (
     <div className={style.grid_content}>
         {teams.map((team) => ( 
-          <Logo logo_url={team.keyword} logo_href={"/posts/"+team.keyword}/>
+          <Logo logo_url={team.keyword} logo_href={"/posts/"+team.keyword} key={team.id}/>
         ))}
     </div>
   )
 }
-/*
-{tarefas.map((item) => (
-            <Item selecionaTarefa={selecionaTarefa}
-                  key={item.id} 
-                  {...item}/>
-        ))}
-
-        {teams.map((team) => ( 
-          <Logo logo_url={team.name} logo_href={"/"+team.name}/>
-        ))}
-*/
